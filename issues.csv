@@ -1,0 +1,55 @@
+Summary,Key,Description,Link,Estimate
+Task1: Wyświetlanie pytań,PP-1,"Acceptance Criteria:
+Pytanie jest wyświetlane poprawnie z 4 opcjami
+Kliknięcie na odpowiedź zaznacza ją i blokuje kolejne kliknięcia
+Pytania zmieniają się po potwierdzeniu odpowiedzi",https://minimalsanity.atlassian.net/browse/PROJ-3,3
+Taks2: Liczenie punktów,PP-2,"Acceptance Criteria:
+Poprawna odpowiedź zwiększa wynik o 1 punkt
+Niepoprawna odpowiedź nie zmienia punktów
+Wynik końcowy wyświetlany po zakończeniu quizu",https://minimalsanity.atlassian.net/browse/PROJ-4?atlOrigin=eyJpIjoiNGZiYzJmNWYzYzcwNGYwMTkzODZhZmNmZDE5MzM2YjMiLCJwIjoiaiJ9,2
+Task3: Dodawanie pytań,PP-3,"Acceptance Criteria:
+
+Użytkownik może dodać co najmniej jedno pytanie
+Każde pytanie ma wybraną poprawną odpowiedź
+Po zapisaniu pytanie jest widoczne w liście pytań",https://minimalsanity.atlassian.net/browse/PROJ-5?atlOrigin=eyJpIjoiY2U2Nzc1MmNjOTQzNDA3MTllYWRmNjU3ZmRlYzRmNDkiLCJwIjoiaiJ9,3
+Task4: Zapis quizu,PP-4,"Acceptance Criteria:
+
+Quizy zapisują się poprawnie lokalnie (lub w Firebase)
+Po zapisaniu quiz jest dostępny w menu singleplayer",https://minimalsanity.atlassian.net/browse/PROJ-8?atlOrigin=eyJpIjoiZDVlN2Q0ZWM3ODhhNGUzOGIwYjNhZWE2M2ZkYjg4NDEiLCJwIjoiaiJ9,2
+Task5: Tworzenie pokoju,PP-5,"Acceptance Criteria:
+
+Host może utworzyć pokój
+ID pokoju jest generowane i widoczne dla innych graczy",https://minimalsanity.atlassian.net/browse/PROJ-11?atlOrigin=eyJpIjoiZDY0ZjJhNjExYzJmNDczOGJjMWRiMTA5OTJhMTQ5NTAiLCJwIjoiaiJ9,3
+Task6: Dołączanie do pokoju,PP-6,"Acceptance Criteria:
+
+Gracz może poprawnie dołączyć do pokoju
+Nie można dołączyć do nieistniejącego pokoju (pokazuje komunikat błędu)",https://minimalsanity.atlassian.net/browse/PROJ-12?atlOrigin=eyJpIjoiOGY4NzcwMzliYTZjNGRmMzlkYjNkNDdmYzZkZThiNWUiLCJwIjoiaiJ9,2
+Task7: Wysyłanie i odbieranie odpowiedzi,PP-7,"Acceptance Criteria
+
+    Odpowiedzi graczy są przesyłane do hosta w czasie rzeczywistym.
+
+    Host odbiera i zapisuje wszystkie odpowiedzi uczestników.
+
+    Zsynchronizowane odpowiedzi są widoczne dla wszystkich graczy zgodnie ze stanem gry.
+
+    Po zakończeniu quizu wyniki końcowe są wyświetlane wszystkim uczestnikom.
+
+    Każdy gracz widzi ten sam ranking i liczbę punktów.",https://minimalsanity.atlassian.net/browse/PROJ-13?atlOrigin=eyJpIjoiMDc0MWFhYjZhMzdkNGNkMDhkMjFiODExY2ZmMjE1MzUiLCJwIjoiaiJ9,5
+Task8: Menu i nawigacja,PP-8,"Acceptance Criteria
+
+    Menu działa poprawnie i przekierowuje do właściwego ekranu.
+
+    Wszystkie opcje menu są dostępne i czytelnie opisane.
+
+    Przyciski są responsywne na różnych rozdzielczościach ekranu.
+
+    Nawigacja nie powoduje błędów ani utraty danych użytkownika.",https://minimalsanity.atlassian.net/browse/PROJ-14?atlOrigin=eyJpIjoiZmY2NjM1OGQ3MTJkNDJkYmI0NmQ5N2M3NWMxYjBjNTMiLCJwIjoiaiJ9,2
+Task9: Kolory poprawnych/niepoprawnych odpowiedzi,PP-9,"Acceptance Criteria
+
+    Poprawne odpowiedzi są oznaczone kolorem zielonym.
+
+    Niepoprawne odpowiedzi są oznaczone kolorem czerwonym.
+
+    Oznaczenia kolorystyczne są widoczne i jednoznaczne.
+
+    Informacja o poprawności pojawia się po udzieleniu odpowiedzi lub zakończeniu pytania.",https://minimalsanity.atlassian.net/browse/PROJ-15?atlOrigin=eyJpIjoiNzJmOThjMjg5ZjE2NGI0OGE3MTg0ZWM4ZmJkYzZlYWIiLCJwIjoiaiJ9,1
